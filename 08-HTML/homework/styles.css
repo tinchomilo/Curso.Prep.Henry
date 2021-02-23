@@ -1,0 +1,22 @@
+
+html {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    padding: 10px;
+    border-color: cyan;
+    border-style:ridge;
+    margin: 50px;
+}       
+       
+       #thirdDiv {
+            color:rgb(23, 0, 126);
+            width: 700;
+            height: 750;
+            background-color: crimson;
+            border: darkgreen; line-height: 5px;
+        } 
+        #spanId {
+            font-size: 18px;
+            margin: 50px;
+        }
+        
